@@ -128,7 +128,7 @@ To deploy your own version:
 ## 👨‍💻 Author
 
 **Saroj Dhital**  
-IT Student | Web Developer  
+IT Student and Web Enthusiast
 
 ---
 
