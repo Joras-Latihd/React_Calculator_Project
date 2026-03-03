@@ -71,13 +71,11 @@ This application performs standard arithmetic operations with a modern UI, dark 
 
 ## 📷 Screenshots
 
-*(Upload screenshots to your repository and replace the links below.)*
-
 ### Calculator – Light Mode
-![Light Mode Screenshot](add-your-image-link-here)
+![Light Mode Screenshot]()
 
 ### Calculator – Dark Mode
-![Dark Mode Screenshot](add-your-image-link-here)
+![Dark Mode Screenshot]()
 
 ---
 
