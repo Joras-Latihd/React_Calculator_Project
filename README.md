@@ -72,10 +72,10 @@ This application performs standard arithmetic operations with a modern UI, dark 
 ## 📷 Screenshots
 
 ### Calculator – Light Mode
-![Light Mode Screenshot]()
+![Light Mode Screenshot](https://github.com/Joras-Latihd/React_Calculator_Project/blob/f6b39c51a68507000358e651c7f6f84ef382881a/Light_Mode.png)
 
 ### Calculator – Dark Mode
-![Dark Mode Screenshot]()
+![Dark Mode Screenshot](https://github.com/Joras-Latihd/React_Calculator_Project/blob/f6b39c51a68507000358e651c7f6f84ef382881a/Dark_Mode.png)
 
 ---
 
