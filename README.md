@@ -1,4 +1,4 @@
-# 🧮 React Calculator Project
+# React Calculator Project
 
 A clean and responsive **Calculator Application** built by **SAROJ DHITAL** using **React.js** and deployed on **Vercel**.
 
